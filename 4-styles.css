@@ -44,6 +44,7 @@
 
 body {
     margin: 0;
+    
 }
 
 header {
@@ -51,7 +52,7 @@ header {
     width: 87.5rem;
     height: 50rem;
     /* padding: 5rem; */
-    background-image: url(../images/headphones_hero_1.jpg);
+    background-image: url(./images/headphones_hero_1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -195,7 +196,7 @@ button {
     flex-direction: column;
    align-items: center;
    color: #fff;
-   background-image: url(../images/headphones_hero_2.jpg);
+   background-image: url(./images/headphones_hero_2.jpg);
    /* background-size: cover; */
    /* justify-content: center; */
 }
