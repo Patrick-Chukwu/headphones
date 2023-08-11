@@ -23,8 +23,8 @@ For this week's project challenge, I  built a website for an imaginary headphone
 ![Desktop version](./images/headphones3.png)
 
 ![Desktop version](./images/headphones4.png)
-##### Mobile version:
-![Mobile version wlll be built later](coming...)
+<!-- ##### Mobile version:
+![Mobile version wlll be built later](coming...) -->
 
 
 ### Links
@@ -48,7 +48,7 @@ For this week's project challenge, I  built a website for an imaginary headphone
 ## Author
 
 - Website - [Patrick Chukwu](https://www.your-site.com)
-- Linkedin - [Patrick Chukwu](https://www.frontendmentor.io/profile/Patrick-Chukwu)
+- Linkedin - [Patrick Chukwu](https://www.linkedin.com/in/patrick-chukwu)
 - Twitter - [@pattyfean](https://www.twitter.com/pattyfean)
 
 
