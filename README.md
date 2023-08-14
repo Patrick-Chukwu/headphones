@@ -1,6 +1,6 @@
 # A website for an imaginary headphone company
 
-This is a solution to the [ALX software Headphone projects](https://www.figma.com/file/glSzGhH0aPzOsN7NcHy09W/Holberton-School---Headphone-company-(Copy)?type=design&node-id=0-362&mode=design&t=irLR0ogec7bRWJSm-0). 
+This is a solution to a task from [ALX Introduction to Software Engineering](https://www.figma.com/file/glSzGhH0aPzOsN7NcHy09W/Holberton-School---Headphone-company-(Copy)?type=design&node-id=0-362&mode=design&t=irLR0ogec7bRWJSm-0). 
 
 ## Table of contents
 
@@ -49,7 +49,7 @@ For this week's project challenge, I  built a website for an imaginary headphone
 
 - Website - [Patrick Chukwu](https://www.your-site.com)
 - Linkedin - [Patrick Chukwu](https://www.linkedin.com/in/patrick-chukwu)
-- Twitter - [@pattyfean](https://www.twitter.com/pattyfean)
+- Twitter - [@pattyfean](https://www.twitter.com/d_patrickchukwu)
 
 
 
