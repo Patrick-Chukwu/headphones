@@ -34,7 +34,7 @@ For this week's project challenge, I  built a website for an imaginary headphone
 
 ## My process
    - I built the markup first
-   - Then I proceeded to style from top-to-bottom with M
+   - Then I proceeded to style from top-to-bottom
    - Since it's just a desktop version alone, I built only for desktop.
    
 ### Built with
